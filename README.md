@@ -1,1 +1,0 @@
-# 2_Sport_Projekt_DemeZalan_VizhanyoBence_11S2P2
