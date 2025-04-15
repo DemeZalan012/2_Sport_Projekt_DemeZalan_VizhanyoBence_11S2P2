@@ -2,3 +2,5 @@ Kézilabda szabályzatot készítette: A Magyar Kézilabda szövetség (MKSZ) li
 Íjászat szabályzatot készítette:   Magyar Íjász Szövetség link:https://misz.hu/assets/uploads/files/2e8f7-alapszabaly-2022.pdf                                        Letöltés időpontja: 2025.04.15 13:21:28
 Röplabda szabályzatot készítette: A Magyar Röplabdabda szövetség link: http://hunvolley.hu/wp-content/uploads/Roplabda-hivatalos-jatekszabalyai-2021-2024.pdf         Letöltés időpontja: 2025.04.15 13:20:57
 Foci szabályzatot készítette: A Magyar Labdarúgó Szövetség link: https://bacs.mlsz.hu/adat/dokumentum/48/dokumentumok/szabalykonyv_2019-2020.pdf                      Letöltés időpontja: 2025.04.15 ‏‎13:33:16
+Kézilabda jegyzőkönyv: https://www.scribd.com/document/773338608/Kezilabda-egyszer%C5%B1sitett-jegyz%C5%91konyv                                                       Letöltés időpontja: 2025.04.15 ‏‎‏‎14:01:46
+Foci jegyzőkönyv: https://szabolcs.mlsz.hu/file/newse/35696/file/merkozes-jegyzokonyv_2021.pdf                                                                        Letöltés időpontja: 2025.04.15 14:05:41‏‎‏‎
