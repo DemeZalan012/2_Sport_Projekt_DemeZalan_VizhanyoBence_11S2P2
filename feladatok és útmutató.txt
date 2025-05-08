@@ -1,0 +1,11 @@
+1. feladat: Fociból ki írja a kapusok nevét és az ID-t.(1 gomb)
+
+2. feladat: Íjászatban írd ki azok hibáinak számát, akiknek a pontja 270 fölött van.(2 gomb)
+
+3. feladat: Kézilabdában írd ki a pontszámát azoknak, akiknek a tiszta találata több mint 20.(3 gomb)
+
+4. feladat: íjjászat ból irja ki a megjegyzések tipusát és annak a leirását .(4 gomb)
+
+5. feladat: Íjászatban a szenior korosztályú lány játékosok edzőinek nevét írd ki és az ősszpontszámát.(5 gomb)
+
+6 gomb a kilépés
