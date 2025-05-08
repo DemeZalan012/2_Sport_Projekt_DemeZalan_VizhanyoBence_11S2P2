@@ -17,8 +17,14 @@ namespace Projekt_adatbázis
 
             while (!exit)
             {
+                Console.WriteLine("Válasz feladatot:");
+                Console.WriteLine("1. feladat: Fociból ki írja a kapusok nevét és az ID-t.(1 gomb)");
+                Console.WriteLine("2. feladat: Íjászatban írd ki azok hibáinak számát, akiknek a pontja 270 fölött van.(2 gomb)");
+                Console.WriteLine("3. feladat: Kézilabdában írd ki a pontszámát azoknak, akiknek a tiszta találata több mint 20.(3 gomb)");
+                Console.WriteLine("4. feladat: íjjászat ból irja ki a megjegyzések tipusát és annak a leirását .(4 gomb)");
+                Console.WriteLine("5. feladat: Íjászatban a szenior korosztályú lány játékosok edzőinek nevét írd ki és az ősszpontszámát.(5 gomb)");
                 Console.WriteLine("6 = kilépés");
-                Console.Write("Válasszon egy feladatot(1-5): ");
+                Console.Write("feladat: ");
                 
 
                 string input = Console.ReadLine();
