@@ -787,7 +787,7 @@ ALTER TABLE `vegeredmeny`
   ADD CONSTRAINT `vegeredmeny_ibfk_4` FOREIGN KEY (`gyoztes_csapat_id`) REFERENCES `csapatok` (`csapat_id`);
 COMMIT;
 
-//akinek el küldtem az használhatja- Deme Zalán
+--akinek el küldtem az használhatja- Deme Zalán
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
